@@ -6,4 +6,4 @@
 
 #### BlogIntroduce
 
-> Blog System build based on Beego[http://beego.me/]
+> Blog System build based on Beego(http://beego.me/)
